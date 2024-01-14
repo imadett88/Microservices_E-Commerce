@@ -19,7 +19,7 @@ Orders :
 
 Order Details :
 
-![c3](https://github.com/imadett88/Microservices_E-Commerce/assets/83021588/f9d5153f-d566-4a55-95ce-dcf0fc878f8f)*
+![c3](https://github.com/imadett88/Microservices_E-Commerce/assets/83021588/f9d5153f-d566-4a55-95ce-dcf0fc878f8f)
 
 Consul :
 
